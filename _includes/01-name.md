@@ -1,2 +1,1 @@
-#Pavlo Ptushkin
-# 
+# Pavlo Ptushkin
